@@ -5,7 +5,7 @@ def parse_arguments():
     # Create argument parser
     parser = argparse.ArgumentParser(
         prog="arbo",
-        description="Simple probabilistic ASCII-art tree Generator"
+        description="Simple probabilistic ASCII-art tree generator"
     )
 
     # Add arguments
